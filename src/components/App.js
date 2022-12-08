@@ -21,7 +21,6 @@ const App = () => {
                 ></input>
                 <button id="button" onClick={handleClick}>
                     Search
-                    
                 </button>
             </form>
             <div id="result">
